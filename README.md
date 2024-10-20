@@ -1,5 +1,4 @@
 <h1 align="center">DeAundre Payne</h1>
-<img src="https://komarev.com/ghpvc/?username=dandre3000&label=Profile%20views&color=0e75b6&style=flat" alt="dandre3000" />
 <div align="center">
   
   ## Languages and Tools
@@ -12,4 +11,6 @@
   [<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="32"/>](https://www.python.org/doc)
   [<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="32"/>](https://dev.mysql.com/doc)
   [<img src="https://registry.khronos.org/webgl/resources/WebGL-Logo.svg" alt="WebGL" width="32" height="32"/>](https://www.khronos.org/webgl)
+
+  [![dandre3000's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dandre3000&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
