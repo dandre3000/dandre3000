@@ -1,7 +1,7 @@
 <h1 align="center">DeAundre Payne</h1>
 <div align="center">
   
-  ## Languages and Tools
+  ## Skills
   [![dandre3000's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dandre3000&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
   
   [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="32"/>](https://developer.mozilla.org/en-US/docs/web/html)
