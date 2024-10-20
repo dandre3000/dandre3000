@@ -7,4 +7,6 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="32"/>](https://www.typescriptlang.org/docs)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="32"/>](https://www.iso-9899.info/wiki/The_Standard)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="32"/>](https://isocpp.org/std/the-standard)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="32"/>](https://www.python.org/doc)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="32"/>](https://dev.mysql.com/doc)
 [<img src="https://registry.khronos.org/webgl/resources/WebGL-Logo.svg" alt="WebGL" width="32" height="32"/>](https://www.khronos.org/webgl)
